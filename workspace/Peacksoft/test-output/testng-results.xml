@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29341" started-at="2020-01-13T18:26:23Z" finished-at="2020-01-13T18:26:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29341" started-at="2020-01-13T18:26:23Z" finished-at="2020-01-13T18:26:52Z">
+      <class name="Test.LoginVerify">
+        <test-method status="PASS" signature="Config()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Config" is-config="true" duration-ms="17036" started-at="2020-01-13T23:56:23Z" finished-at="2020-01-13T23:56:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Config -->
+        <test-method status="PASS" signature="Logininto()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Logininto" is-config="true" duration-ms="1471" started-at="2020-01-13T23:56:40Z" depends-on-methods="Data.BaseLine.Config" finished-at="2020-01-13T23:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logininto -->
+        <test-method status="PASS" signature="Window()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Window" is-config="true" duration-ms="1202" started-at="2020-01-13T23:56:42Z" finished-at="2020-01-13T23:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window -->
+        <test-method status="PASS" signature="EnterCredentials()[pri:0, instance:Test.LoginVerify@33ce2c]" name="EnterCredentials" duration-ms="9548" started-at="2020-01-13T23:56:43Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterCredentials -->
+        <test-method status="PASS" signature="Window()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Window" is-config="true" duration-ms="9" started-at="2020-01-13T23:56:52Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window -->
+        <test-method status="PASS" signature="VerifyLogin()[pri:0, instance:Test.LoginVerify@33ce2c]" name="VerifyLogin" duration-ms="11" started-at="2020-01-13T23:56:52Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogin -->
+        <test-method status="PASS" signature="Window()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Window" is-config="true" duration-ms="12" started-at="2020-01-13T23:56:52Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Window -->
+        <test-method status="PASS" signature="verifyedirection()[pri:0, instance:Test.LoginVerify@33ce2c]" name="verifyedirection" duration-ms="11" started-at="2020-01-13T23:56:52Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyedirection -->
+        <test-method status="PASS" signature="Clean()[pri:0, instance:Test.LoginVerify@33ce2c]" name="Clean" is-config="true" duration-ms="0" started-at="2020-01-13T23:56:52Z" finished-at="2020-01-13T23:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clean -->
+      </class> <!-- Test.LoginVerify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
